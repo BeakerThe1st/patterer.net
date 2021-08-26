@@ -33,6 +33,7 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Content | html }}</description>
+      <dc:creator>Benson Kitia</dc:creator>
     </item>
     {{ end }}
   </channel>
