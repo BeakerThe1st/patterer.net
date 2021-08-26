@@ -1,7 +1,7 @@
 ---
 title: "Purple Square Three"
 date: 2021-08-26T01:47:40-05:00
-draft: true
+draft: false
 description: "by Benson Kitia"
 tags: ["test-post"]
 ---
