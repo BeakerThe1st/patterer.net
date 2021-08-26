@@ -75,7 +75,7 @@ A user of patterer.net or alpha.patterer.net may be referred to as:
 
 We collect and store fully anonymized data about your browser, country, and screen size as well as the referring site.
 
-We collect and store this data through [MicroAnalytics](https://microanalytics.io), a "Privacy-aware" third-party service. You can view [MicroaAnalytics' Privacy Policy](https://microanalytics.io/page/privacy), which you are agreeing to by using the site.
+We collect and store this data through [MicroAnalytics](https://microanalytics.io), a third-party service "built and operated as a privacy-first tool". You can view [MicroaAnalytics' Privacy Policy](https://microanalytics.io/page/privacy), which you are agreeing to by using the site.
 
 ##### How we use log and analytics data
 
