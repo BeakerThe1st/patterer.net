@@ -3,6 +3,19 @@ window.addEventListener("DOMContentLoaded", function () {
     dark = "Switch theme";
   const LIGHT = "light",
     DARK = "dark";
+
+  let preferredTheme;
+  const storedTheme = localStorage.theme;
+  if (storedTheme) {
+    preferredTheme = storedTheme;
+  } else if (window.matchMedia) {
+    preferredTheme = window.matchMedia("(prefers-color-scheme: light)")
+      ? LIGHT
+      : DARK;
+  } else {
+    preferredTheme = LIGHT;
+  }
+
   const themeSwitcher = document.getElementById("theme-switcher");
 
   themeSwitcher.innerHTML = localStorage.theme === LIGHT ? light : dark;
