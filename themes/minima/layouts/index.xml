@@ -33,6 +33,10 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Content | html }}</description>
+      <author>
+		    <name>Benson Kitia</name>
+		    <uri>https://twitter.com/bensonkitia</uri>
+	  </author>
     </item>
     {{ end }}
   </channel>
