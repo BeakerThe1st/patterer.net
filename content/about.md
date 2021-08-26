@@ -39,7 +39,7 @@ TW//nerd shit
 
 - Text editor/IDE: [Visual Studio Code](https://code.visualstudio.com) and [Nova](https://nova.app)
 - Git remote client: [Github](https://github.com)
-- Analytics: [GoatCounter](https://www.goatcounter.com)
+- Analytics: [MicroAnalytics](https://microanalytics.io)
 - Notes, drafting, and planning: [Craft](https://craft.do), [Grammarly](https://www.grammarly.com), and [Apple Reminders](https://apps.apple.com/us/app/reminders/id1108187841)
 
 ## Privacy
@@ -75,7 +75,7 @@ A user of patterer.net or alpha.patterer.net may be referred to as:
 
 We collect and store fully anonymized data about your browser, country, and screen size as well as the referring site.
 
-We collect and store this data through [GoatCounter](https://www.goatcounter.com), a "Privacy-aware" third-party service. You can view [GoatCounter's privacy policy](https://www.goatcounter.com/privacy) and [GDPR consent notices](https://www.goatcounter.com/gdpr), both of which you are agreeing to by using the site.
+We collect and store this data through [MicroAnalytics](https://microanalytics.io), a "Privacy-aware" third-party service. You can view [MicroaAnalytics' Privacy Policy](https://microanalytics.io/page/privacy), which you are agreeing to by using the site.
 
 ##### How we use log and analytics data
 
