@@ -95,7 +95,7 @@ We collect and store data that you may provide to us in forms on the site, or in
 We may use this data to:
 
 - Gather feedback to improve the site and its content
-- Contact you in order to acknowledge your feedback, answer your questions, or provide support 
+- Contact you in order to acknowledge your feedback, answer your questions, or provide support
 
 #### Other data that may be collected by third parties 👥
 
