@@ -1,0 +1,32 @@
+baseURL = 'https://patterer.net'
+languageCode = 'en-us'
+title = 'Patterer'
+theme = "minima"
+copyright = "© 2021 Benson Kitia"
+paginate = 5
+
+[[params.social]]
+name = "rss"
+url = "/index.xml"
+svg = ""
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/PattererNet"
+svg = ""
+[[params.social]]
+name = "github"  
+url = "https://github.com/PattererNet"
+svg = ""
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+[[menu.main]]
+name = "RSS feed"
+url = "/index.xml"
+weight = 3
