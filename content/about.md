@@ -10,9 +10,13 @@ I believe strongly in the principles of [open-source software](https://opensourc
 
 ## Follow
 
+### Twitter
+
 The best way to never miss an issue is to follow [Patterer on Twitter](https://twitter.com/PattererNet) and [turn on notifications](https://help.twitter.com/en/managing-your-account/notifications-on-mobile-devices).
 
-If you use an RSS reader, there's a link to [Patterer's RSS Feed](/index.xml) in this sentence, up in the navigation bar, or down in the footer; take your pick. If you're not into hyperlinks, the feed is at <https://patterer.net/index.xml>.
+### RSS
+
+If you use an RSS reader, there's a link to [Patterer's RSS feed](/index.xml) in this sentence and down in the footer; take your pick. You can also manually copy/paste the link to the feed: <https://patterer.net/index.xml>.
 
 ## Contact
 
