@@ -16,7 +16,7 @@ The best way to never miss an issue is to follow [Patterer on Twitter](https://t
 
 ### RSS
 
-If you use an RSS reader, there's a link to [Patterer's RSS feed](/index.xml) in this sentence and down in the footer; take your pick. You can also manually copy/paste the link to the feed: <https://patterer.net/index.xml>.
+If you use an RSS reader, you can [click here to open Patterer's RSS feed in your RSS app](/index.xml) or manually add this link: <https://patterer.net/index.xml>.
 
 ## Contact
 

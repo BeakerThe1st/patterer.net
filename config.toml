@@ -7,7 +7,7 @@ paginate = 5
 
 [[params.social]]
 name = "rss"
-url = "/about#RSS"
+url = "/about#rss"
 svg = ""
 [[params.social]]
 name = "twitter"
@@ -28,5 +28,5 @@ url = "/about"
 weight = 2
 [[menu.main]]
 name = "RSS feed"
-url = "/about#RSS"
+url = "/about#rss"
 weight = 3
