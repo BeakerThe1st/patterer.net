@@ -41,3 +41,74 @@ TW//nerd shit
 - Git remote client: [Github](https://github.com)
 - Analytics: [GoatCounter](https://www.goatcounter.com)
 - Notes, drafting, and planning: [Craft](https://craft.do), [Grammarly](https://www.grammarly.com), and [Apple Reminders](https://apps.apple.com/us/app/reminders/id1108187841)
+
+## Privacy
+
+Last updated August 26, 2020
+
+### Preamble 👋
+
+I value good privacy practices as a consumer, and [you should too](https://security.berkeley.edu/news/why-should-we-care-about-online-privacy). This is why I will never violate your fundamental right to privacy by tracking you, and why you don't need to be a lawyer or even read at a high school level to understand the privacy practices outlined in this policy.
+
+### Teminology 🗣️
+
+The Patterer organization may be referred to as:
+
+- we
+- our
+- us
+
+patterer.net and alpha.patterer.net may be referred to as:
+
+- the site
+- patterer.net
+
+A user of patterer.net or alpha.patterer.net may be referred to as:
+
+- user
+- you
+- your
+
+### Data we store 🥡
+
+#### Log and analytics data 📊
+
+We collect and store completely anonymized data about your browser, country, and screen size as well as the referring site.
+
+We collect and store this data through [GoatCounter](https://www.goatcounter.com), a "Privacy-aware" third-party service. You can view [GoatCounter's privacy policy](https://www.goatcounter.com/privacy) and [GDPR consent notices](https://www.goatcounter.com/gdpr), both of which you are agreeing to by using the site.
+
+##### How we use log and analytics data
+
+We may use this anonymized data to:
+
+- Understand what content gets the most engagement
+- Understand which websites users are visiting the site from
+- Improve the experience of the site, like changing where the site is hosted depending on the amount of users or their countries
+- Provide information about user volume and countries to potential sponsors or other third parties publicly or in private communications upon request
+
+#### Data that you willingly provide to us 🤝
+
+We collect and store data that you may provide to us in forms on the site, or in correspondance with us via email, Twitter DM, or another channel.
+
+##### How we use data that you willingly provide to us
+
+We may use this data to:
+
+- Gather feedback to improve the site and its content
+- Contact you in order to acknowledge your feedback, answer your questions, or provide support 
+
+#### Other data that may be collected by third parties 👥
+
+We use [Netlify](https://netlify.com) to host the site, and while we don't think they collect any data and don't intentionally collect any data using their service, [Netlify's privacy policy](https://netlify.com/privacy) might apply.
+
+### Data we do not store ❎
+
+This site is not intended for those who are under the age of 13 (or the minimum age of digital consent, as applicable in your jurisdiction). We do not knowingly store the data of users who are under the age of 13 (or the minimum age of digital consent, as applicable in your jurisdiction).
+
+### Warranty and assurance on processing ✅
+
+Although we try our best to protect your data, we do not provide any warranty or assurance regarding the processing or storing of your data, or to whom your data may accidentally and/or unknowinly become accessible.
+
+### Contact 📩
+
+Inquiries or comments regarding this policy or our privacy practices should be send via [email: benson@patterer.net](mailto:test@example.com?subject=Privacy%20Practices)
